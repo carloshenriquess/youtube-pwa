@@ -1,0 +1,8 @@
+{
+  "name": "yt-pwa-test",
+  "version": "1.0.0",
+  "repository": "git@github.com:carloshenriquess/yt-pwa-test.git",
+  "author": "Carlos Henrique <carlos.henrique0307200@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
