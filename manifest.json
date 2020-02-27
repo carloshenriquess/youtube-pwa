@@ -4,8 +4,8 @@
   "theme_color": "#eedd7d",
   "background_color": "#eedd7d",
   "display": "standalone",
-  "Scope": "/yt-pwa-test",
-  "start_url": "/yt-pwa-test",
+  "Scope": "/yt-pwa-test/",
+  "start_url": "/yt-pwa-test/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
