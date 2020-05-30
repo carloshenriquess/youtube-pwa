@@ -1,9 +1,9 @@
-registerServiceWorker();
-
-function registerServiceWorker() {
+const registerServiceWorker = () => {
   if ("serviceWorker" in navigator) {
-    window.addEventListener("load", function() {
+    window.addEventListener("load", () => {
       navigator.serviceWorker.register("mr-service-worker.js");
     });
   }
-}
+};
+
+registerServiceWorker();
