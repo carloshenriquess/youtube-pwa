@@ -1,2 +1,3 @@
-# yt-pwa-test
-Teste de PWA com vídeo do youtube embedado
+# Youtube PWA
+
+PWA with embedded youtube video
