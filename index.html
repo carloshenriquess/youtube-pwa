@@ -8,15 +8,19 @@
     <link rel="icon" href="./favicon.ico" type="image/x-icon" />
     <link rel="manifest" href="/youtube-pwa/manifest.json" />
     <script src="scripts/main.js" defer></script>
+    <link rel="stylesheet" href="/styles/styles.css" />
   </head>
   <body>
-    <iframe
-      width="100%"
-      height="315"
-      src="https://www.youtube.com/embed/videoseries?list=PLhHHziNjM2TPIOkQqPvRGMeg32YmasOVr"
-      frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen
-    ></iframe>
+    <div class="c-iframe">
+      <div class="c-iframe__wrapper">
+        <iframe
+          class="c-iframe__iframe"
+          src="https://www.youtube.com/embed/videoseries?list=PLhHHziNjM2TPIOkQqPvRGMeg32YmasOVr"
+          frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
   </body>
 </html>
