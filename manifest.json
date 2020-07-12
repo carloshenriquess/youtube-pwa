@@ -4,8 +4,8 @@
   "theme_color": "#eedd7d",
   "background_color": "#eedd7d",
   "display": "standalone",
-  "Scope": "/youtube-pwa/",
-  "start_url": "/youtube-pwa/",
+  "Scope": "/",
+  "start_url": "/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
